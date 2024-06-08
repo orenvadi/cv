@@ -1,0 +1,152 @@
+contacts:
+  name: Nursultan Baktybekov
+  title: Backend Developer
+  email: orenvady@gmail.com
+  phone: "+996 558 333 106"
+  address: "Bishkek , Kyrgyzstan"
+  nationality: Kyrgyzstan
+  linkedin:
+    url: https://www.linkedin.com/in/nursultan-baktybekov
+    displayText: nursultan-baktybekov
+  github:
+    url: https://github.com/orenvadi/
+    displayText: orenvadi
+
+skills:
+  - name: Programming Languages
+    items:
+      - Go
+      - Python
+  - name: Software Development
+    items:
+      - Agile
+      - Scrum
+      - Design Patterns
+      - Git
+  - name: Cloud Computing
+    items:
+      - AWS
+      - Google Cloud
+  - name: Database Management
+    items:
+      - MySQL
+      - PostgreSQL
+      - MongoDB
+  - name: Web Development
+    items:
+      - Django
+      - Fiber(Golang)
+
+jobs:
+  - position: Backend Go Developer
+    company:
+      name: Elif Digital
+      link: https://elif.digital/
+    description:
+      - Designed backend architecture
+      - Created SSO for all services from the ground up
+      - Collaborated with cross-functional teams, including designers and engineers.
+      - Worked in close collaboration with interdisciplinary teams on a range of development initiatives.
+      - Conceived and executed software systems to tackle unique client challenges.
+      - Designed and implemented software solutions that effectively addressed intricate business challenges.
+
+    from: "2024 Feb."
+    to: "2024 April."
+    tags:
+      - Backend Developer
+
+  - position: Backend Python Developer
+    company:
+      name: Elif Digital
+      link: https://elif.digital/
+    description:
+      - Implemented part of the Backend
+      - Configured CI/CD pipelines
+      - Deployed a Product on Cloud Services
+
+    from: "2023 Nov."
+    to: "2024 Feb."
+    tags:
+      - Backend Developer
+
+education:
+  - university:
+      name: Kyrgyz-German Institute of Applied Informatics
+      link: "https://inai.kg"
+    degree: "B.Sc."
+    major:
+      Computer Science
+    track:
+      Web Development
+    from: "2022"
+    to: "2026"
+
+hackathons:
+
+  - hackathon:
+      name: Datathon 2
+      link: "https://thecramer.com/blog/datathon-2"
+    certificate_link: ""
+    description: >
+      I participated in the Cramer Project datathon "AI
+      for analysis of morphemes of kyrgyz words". In this
+      datathon we learned how does machine learning
+      work and made it by ourselves. My role was to
+      optimize code and test it. We took 3rd place.
+
+    year: 2023
+    from: "May. 12"
+    to: "May. 13"
+
+  - hackathon:
+      name: Let's go digital 3.0
+      link: "https://www.transparency.kg/news/2/56.html"
+    certificate_link: ""
+    description: >
+      I participated in the DT4CE hackathon “Improving
+      Goverment service" with my team iNAi.KG . We
+      have created a web application for interaction
+      between the education intstitutions and citizens for
+      applieng documents and other services. My role
+      was to develop a telegram bot. We took 2nd place.
+
+
+    year: 2023
+    from: "June. 17"
+    to: "June. 18"
+
+  - hackathon:
+      name: ICT for Better Laws in Kyrgyzstan
+      link: "https://www.transparency.kg/news/2/60.html"
+    certificate_link: ""
+    description: >
+      I participated in the DT4CE hackathon 
+      with my team INAI.KG. We have created
+      a web application for voting for civic initiatives.
+      This project's goal is to empower civil society to 
+      improve public procurement through digital 
+      technologies. My role was to deploy whole project. 
+      We took 2nd place.
+
+    year: 2023
+    from: "Sep. 23"
+    to: "Sep. 24"
+
+  - hackathon:
+      name: ICT for Better Public Procurement in Kyrgyzstan
+      link: "https://www.transparency.kg/news/2/61.html"
+    certificate_link: ""
+    description: >
+      Deployed the Product.
+
+      I participated in the DT4CE hackathon 
+      with my team INAI.KG. We have created
+      a web application for voting for civic initiatives.
+      This project's goal is to allow citizens to
+      participate at goverment’s activity. My role was to
+      Implement a part of the Backend for the WEB app. 
+      We took 2nd place.
+
+    year: 2023
+    from: "Nov. 4"
+    to: "Sep. 5"

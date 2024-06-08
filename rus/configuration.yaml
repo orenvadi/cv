@@ -1,0 +1,80 @@
+contacts:
+  name: Нурсултан Бактыбеков
+  title: Backend Разработчик
+  email: orenvady@gmail.com
+  phone: "+996 558 333 106"
+  address: "Бишкек, Кыргызстан"
+  nationality: Кыргызское гражданство
+  linkedin:
+    url: https://www.linkedin.com/in/nursultan-baktybekov
+    displayText: nursultan-baktybekov
+  github:
+    url: https://github.com/orenvadi/
+    displayText: orenvadi
+
+skills:
+  - name: Языки программирования
+    items:
+      - Go
+      - Python
+  - name: Разработка ПО
+    items:
+      - Agile
+      - Scrum
+      - Design Patterns
+      - Git
+  - name: Облачные Вычисления
+    items:
+      - AWS
+      - Google Cloud
+  - name: Базы Данных
+    items:
+      - MySQL
+      - PostgreSQL
+      - MongoDB
+  - name: Веб Разработка
+    items:
+      - Django
+      - Fiber(Go)
+
+jobs:
+  - position: Backend Go Разработчик
+    company:
+      name: Elif Digital
+      link: https://elif.digital/
+    description:
+     - Разработка архитектуры бэкенда
+     - Создание SSO для всех сервисов с нуля
+     - Сотрудничал с межфункциональными командами, включая дизайнеров и инженеров.
+     - Работал в тесном сотрудничестве с междисциплинарными командами над целым рядом инициатив в области разработки.
+     - Разрабатывал и внедрял программные системы для решения уникальных задач клиентов.
+     - Разрабатывал и внедрял программные решения, которые эффективно решали сложные бизнес-задачи.
+
+
+    from: "2023 Окт."
+    to: "2024 Март."
+    tags:
+      - Backend Разработчик
+
+education:
+  - university:
+      name: Кыргызско-Германский Институт Прикладной Информатики
+      link: "https://inai.kg"
+    degree: "Бакалавриат"
+    major:
+      Програмная Инженерия
+    track:
+      Веб Разработка
+    from: "2022"
+    to: "2026"
+
+hackathons:
+  - hackathon:
+      name: Tech Innovators Hackathon
+      link: "https://techinnovatorshackathon.com/"
+    certificate_link: "https://techinnovatorshackathon.com/certificates/johndoe"
+    description: >
+      Developed an innovative data analysis tool that improved data processing and insights generation for businesses.
+    year: 2023
+    from: "Feb. 1"
+    to: "Feb. 7"
