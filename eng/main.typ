@@ -13,7 +13,7 @@
 
 #let sidebarSection = {[
 
-  #image("./images/profile-rndc.png", width: 80%)
+  // #image("./images/profile-rndc.png", width: 80%)
 
   #par(justify: true)[
 
